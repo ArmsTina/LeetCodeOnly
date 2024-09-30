@@ -7,6 +7,7 @@ Welcome to my LeetCode solutions repository! Here, you'll find my solutions to v
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ArmsTina/LeetCodeOnly/tree/master/0001-two-sum) |
 | [2756-buy-two-chocolates](https://github.com/ArmsTina/LeetCodeOnly/tree/master/2756-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -16,4 +17,8 @@ Welcome to my LeetCode solutions repository! Here, you'll find my solutions to v
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/ArmsTina/LeetCodeOnly/tree/master/2756-buy-two-chocolates) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ArmsTina/LeetCodeOnly/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
